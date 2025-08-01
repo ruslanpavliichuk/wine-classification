@@ -62,10 +62,9 @@ The following classification algorithms were implemented and compared:
 #### Models Tested:
 
 1. **Logistic Regression** - Linear classifier with sigmoid function
-2. **Support Vector Machine (SVM)** - With both linear and RBF kernels
-3. **Decision Tree** - Tree-based classifier with interpretable structure
-4. **Random Forest** - Ensemble method for feature importance analysis
-5. **K-Nearest Neighbors (KNN)** - Distance-based classifier (optimized k=13)
+2. **Decision Tree** - Tree-based classifier with interpretable structure
+3. **Random Forest** - Ensemble method for feature importance analysis
+4. **K-Nearest Neighbors (KNN)** - Distance-based classifier (optimized k=13)
 
 ## 📈 Results
 
